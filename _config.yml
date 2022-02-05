@@ -29,8 +29,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  AINTUT 2022 on GitHub:
-    - 'https://github.com/AINTUT/2022'
+  YouTube:
+    - 'https://www.youtube.com/playlist?list=PLJ9tqCH58ZfkR2OV9RZbnKRBJVkSfffR-'
+  FB Group:
+    - 'https://www.facebook.com/groups/261656842769933'
+  GitHub:
+    - 'https://github.com/AINTUT/'
 footer_content:
 
 # Collections for website data
