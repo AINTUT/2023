@@ -14,7 +14,7 @@ seo:
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[更多消息](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
 ## 課程資訊

@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Announcements
-nav_exclude: true
-description: A feed containing all of the class announcements.
+title: 最新消息
+description: 課程最新訊息
 ---
 
-# Announcements
-
-Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
+# 最新消息
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
