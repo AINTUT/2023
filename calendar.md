@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
-description: Listing of course modules and topics.
+title: 課程安排
+description: 課程主題、日期、參考資料等
 ---
 
-# Calendar
+# 課程安排
 
 {% for module in site.modules %}
 {{ module }}
