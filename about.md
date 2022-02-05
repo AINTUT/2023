@@ -1,33 +1,36 @@
 ---
 layout: page
-title: About
+title: 關於這門課
 description: >-
-    Course policies and information.
+    關於這們課
 ---
 
-# About
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+# 關於這們課
 
 ---
 
-## About
+## 在學什麼？
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+本課程探討人工智慧AI與工程應用相關議題，並討論解決方法與技術發展趨勢。內容由淺入深包含基礎python程式設計、資料預處理、資料探索、機器學習、深度學習、AI工程應用介紹及專題製作。學生可由本課程了解AI之基本原理，及AI在工程上的應用，以作為進入產業後了解如何導入人工智慧於產業應用之中，提昇工程背景學生AI應用及程式設計的技能。
 
-## Lecture
+This course will introduce the artificial intelligence(AI) and application in engineering fields including basic python programming, data prepossessing, data exploration, machine learning, deep learning, AI application in engineering fields and final project. Students can learn about the basic principles of AI and the application of AI in engineering to understand how to import artificial intelligence into industrial applications and improve their programming competence in AI applications.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+## 計分標準
 
-## Resources
+### 程式題作業（30%）
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+這堂課程會有許多課堂上的實際練習，另外也有回家作業，藉由大量練習讓你的基礎扎根！
 
-## Assignments
+### 期中考試（30%）
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+內容會有課堂上提到的概念，以及一些程式題目。考試主要是想確認各位是否有吸收到重點，認真準備都不會考的太差，請不太要緊張！
+
+### 期末專題（40%）
+
+組隊找一個有趣的題目，將我們在課堂上學到的技術應用上去，並且在最後將結果分享給課堂上的大家！
+
+### 自主參加比賽（5%）
+
+在學期結束前，如果你有參加人工智慧的競賽（個人或團體），請將參加的證明給講師或助教看，比賽內容只要是有相關的基本上應該都可以！
+
+如果你不太確定比賽內容是否跟課程的內容有關，可以在報名前先問問看講師。
