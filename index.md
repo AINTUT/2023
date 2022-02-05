@@ -23,3 +23,8 @@ seo:
 - 地點：北科大
 - 講師：蘇嘉冠 feabries@gmail.com
 - 臉書社團：
+
+## 過去課程
+
+- 2021：[課程首頁](https://aintut.github.io/2021/)
+- 2020：[課程首頁](https://sites.google.com/view/2020aintut/)、[期末專題](https://hackmd.io/HbOStYCGR2atnyOyNzmo4w)
