@@ -1,6 +1,7 @@
 ---
 layout: home
 title: 人工智慧與工程應用課程 2022
+image: '/assets/images/cat.png'
 nav_exclude: true
 seo:
   type: Course
