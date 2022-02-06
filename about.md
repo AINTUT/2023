@@ -34,3 +34,21 @@ This course will introduce the artificial intelligence(AI) and application in en
 在學期結束前，如果你有參加人工智慧的競賽（個人或團體），請將參加的證明給講師看，比賽內容只要是有相關的基本上應該都可以！
 
 如果你不太確定比賽內容是否跟課程的內容有關，可以在報名前先問問看講師。
+
+## 參考書籍
+
+### 科普書
+
+- [了解人工智慧的第一本書：機器人和人工智慧能否取代人類？](https://www.taaze.tw/goods/11100789977.html)
+- [AI背後的暗知識：機器如何學習、認知與改造我們的未來世界](https://www.books.com.tw/products/0010848804)
+- [智慧新世界：圖靈所沒有預料到的人工智慧](https://www.books.com.tw/products/0010880354)
+
+### Python
+
+- [Python 技術者們：練功！老手帶路教你精通正宗 Python 程式](https://www.books.com.tw/products/0010834816)
+
+### 機器學習與深度學習
+
+- [Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555)
+- [Python機器學習第三版（下） ](https://www.books.com.tw/products/0010871454)
+- [強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128)
