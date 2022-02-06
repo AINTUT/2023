@@ -1,23 +1,8 @@
 ---
-title: Introduction to Java
+title: Feb 23
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+主題
+: [Lecture 1] 方興未艾的人工智慧：發展與應用簡介
+  : [[slides](https://docs.google.com/presentation/d/1ly5LmeRZxOyGvVbeboW7Y4VLDwgqZ2x8xdBQ3xnDAvg/edit?usp=sharing)] [videos]
+: **EXERCISE**{: .label .label-purple }[不計名不計分小測驗](https://forms.gle/kGcypFfc9BGYZX7J6)
