@@ -2,7 +2,6 @@
 title: May 4
 ---
 
-Lec 8
-: 機器如何做選擇？Classification
+Lec 7
+: 從茫茫資料海中追求真實：Regression（二）
   : [slides] [videos]
-: **HW**{: .label .label-blue } HW 3 開始日

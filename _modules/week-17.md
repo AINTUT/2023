@@ -2,6 +2,6 @@
 title: Jun 15
 ---
 
-Project
-: 換你來分享：期末專題報告
-  : 😎
+Lec 14
+: 機器如何理解人類語言？自然語言處理（二）
+  : [slides] [videos]

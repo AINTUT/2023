@@ -2,7 +2,7 @@
 title: Jun 1
 ---
 
-Lec 13
-: 機器如何理解人類語言？自然語言處理（一）
+Lec 12
+: 影像辨識與 Convolutional Neural Networks（二）
   : [slides] [videos]
-
+: **DUE**{: .label .label-red } 繳交期末專題構想書

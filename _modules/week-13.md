@@ -2,7 +2,10 @@
 title: May 18
 ---
 
-Lec 11
-: 影像辨識與 Convolutional Neural Networks（一）
+Lec 9
+: 當代人工智慧：深度學習基礎與其常用技巧介紹
   : [slides] [videos]
-: **DUE**{: .label .label-red } HW 3 截止日
+
+Lec 10
+: 深度學習框架：PyTorch 簡介
+  : [slides] [videos]

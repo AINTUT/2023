@@ -2,7 +2,7 @@
 title: May 25
 ---
 
-Lec 12
-: 影像辨識與 Convolutional Neural Networks（二）
+Lec 11
+: 影像辨識與 Convolutional Neural Networks（一）
   : [slides] [videos]
-: **DUE**{: .label .label-red } 繳交期末專題構想書
+: **DUE**{: .label .label-red } HW 3 截止日
