@@ -4,4 +4,4 @@ title: May 18
 
 Lec 9
 : 當代人工智慧：深度學習基礎與其常用技巧介紹
-  : [slides] [videos]
+  : [[slides](https://docs.google.com/presentation/d/1gat3ZBuzR4aLzHTM1Qb-N1hV2VvVT_XFx9w0iysueSw/edit?usp=sharing)] [videos]
