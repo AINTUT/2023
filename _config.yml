@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: zh-TW
-title: AINTUT 2022
-tagline: 人工智慧與工程應用課程 2022
-description: AINTUT 2022
+title: AINTUT 2023
+tagline: 人工智慧與工程應用實作 2023
+description: AINTUT 2023
 author: Jia-Kuan, Su
-baseurl: '/2022' # the subpath of your site, e.g. /blog
+baseurl: '/2023' # the subpath of your site, e.g. /blog
 url: 'https://aintut.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -30,9 +30,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   YouTube:
-    - 'https://www.youtube.com/playlist?list=PLJ9tqCH58ZfkR2OV9RZbnKRBJVkSfffR-'
+    - '#'
   FB Group:
-    - 'https://www.facebook.com/groups/261656842769933'
+    - '#'
   GitHub:
     - 'https://github.com/AINTUT/'
 footer_content:
