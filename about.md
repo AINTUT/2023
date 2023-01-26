@@ -11,44 +11,36 @@ description: >-
 
 ## 在學什麼？
 
-本課程探討人工智慧AI與工程應用相關議題，並討論解決方法與技術發展趨勢。內容由淺入深包含基礎python程式設計、資料預處理、資料探索、機器學習、深度學習、AI工程應用介紹及專題製作。學生可由本課程了解AI之基本原理，及AI在工程上的應用，以作為進入產業後了解如何導入人工智慧於產業應用之中，提昇工程背景學生AI應用及程式設計的技能。
+本課程探討人工智慧 (AI) 與工程應用相關議題，並討論其解決方案與技術發展趨勢。內容由淺入深，包含基礎 python 程式設計、資料預處理、資料探索、機器學習、深度學習、AI 工程應用介紹 (分子性質預測、設備預測性維護、混凝土強度預測，PM2.5 預測、房價預測等案例應用分析) 及專題製作。在本課程中，學生可瞭解 AI 之基本原理及 AI 在工程上的應用，本課程也藉由 AI 程式撰寫的實作實習，提昇工程背景學生撰寫與理解 AI 應用程式設計的技能，以幫助學生將人工智慧導入產業應用實務中。
 
-This course will introduce the artificial intelligence(AI) and application in engineering fields including basic python programming, data prepossessing, data exploration, machine learning, deep learning, AI application in engineering fields and final project. Students can learn about the basic principles of AI and the application of AI in engineering to understand how to import artificial intelligence into industrial applications and improve their programming competence in AI applications.
+This course will introduce artificial intelligence (AI) and its applications in engineering fields. Topics covered include basic python programming, data prepossessing, data exploration, machine learning, deep learning, AI applications in engineering fields (e.g. predicting molecular properties, predictive maintenance predicting compressive strength of concrete, prediction of PM2.5, and prediction of house price, etc.) and final project. Students can learn about the basic principles and engineering applications of AI. Coding will be required to improve their programming competence in AI. The course intends to help the students implement AI concepts in their industrial practices.
 
 ## 計分標準
 
-### 程式題作業（30%）
+### 程式題作業（60%）
 
-這堂課程會有許多課堂上的實際練習，另外也有回家作業，藉由大量練習讓你的基礎扎根！
-
-### 期中考試（30%）
-
-內容會有課堂上提到的概念，以及一些程式題目。考試主要是想確認各位是否有吸收到重點，認真準備都不會考的太差，請不太要緊張！
+除了課堂上的練習，另外也有回家作業，預計 5 至 6 次，藉由大量練習讓你的基礎扎根
 
 ### 期末專題（40%）
 
-組隊找一個有趣的題目，將我們在課堂上學到的技術應用上去，並且在最後將結果分享給課堂上的大家！
-
-### 自主參加比賽（5%）
-
-在學期結束前，如果你有參加人工智慧的競賽（個人或團體），請將參加的證明給講師看，比賽內容只要是有相關的基本上應該都可以！
-
-如果你不太確定比賽內容是否跟課程的內容有關，可以在報名前先問問看講師。
+組隊找一個有趣的題目，應用課堂所學，並將成果分享給大家
 
 ## 參考書籍
+
+### 基礎（適合初學者）
+
+- [看圖學Python人工智慧程式設計](https://www.books.com.tw/products/0010933641)
+- [Python 技術者們：練功！老手帶路教你精通正宗 Python 程式](https://www.books.com.tw/products/0010834816)
+- [少年Py的大冒險－成為Python AI深度學習達人的第一門課](https://www.books.com.tw/products/0010936350)
+
+### 進階（不涵蓋在這門課的內容）
+
+- [Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555)
+- [Python機器學習第三版（下） ](https://www.books.com.tw/products/0010871454)
+- [強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128)
 
 ### 科普書
 
 - [了解人工智慧的第一本書：機器人和人工智慧能否取代人類？](https://www.taaze.tw/goods/11100789977.html)
 - [AI背後的暗知識：機器如何學習、認知與改造我們的未來世界](https://www.books.com.tw/products/0010848804)
 - [智慧新世界：圖靈所沒有預料到的人工智慧](https://www.books.com.tw/products/0010880354)
-
-### Python
-
-- [Python 技術者們：練功！老手帶路教你精通正宗 Python 程式](https://www.books.com.tw/products/0010834816)
-
-### 機器學習與深度學習
-
-- [Python機器學習第三版（上）](https://www.books.com.tw/products/0010869555)
-- [Python機器學習第三版（下） ](https://www.books.com.tw/products/0010871454)
-- [強者用PyTorch：實作史上最經典AI範例](https://www.books.com.tw/products/0010845128)
