@@ -1,7 +1,6 @@
 ---
-title: Apr 20
+title: Apr 19
 ---
 
-Midterm
-: 面對現實，期中考囉！
-  : [[link](https://colab.research.google.com/drive/1IOjAqQbNu0VI2OsJj9Q52Ai_1ugAZkeV?usp=sharing)]
+Lec 8
+: **電腦視覺套件：OpenCV**

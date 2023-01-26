@@ -1,8 +1,7 @@
 ---
-title: May 11
+title: May 10
 ---
 
-Lec 8
-: 機器如何做選擇？Classification
-  : [[slides](https://docs.google.com/presentation/d/1dbXxB_JB_TB4geBKYmBzgMGxrS3eYNsSB6O_OkTGwm8/edit?usp=sharing)] [[videos](https://youtu.be/DHLyJ9zmVSk)]
-: **HW**{: .label .label-blue } [HW 3 開始日](/2022/announcements/)
+Lec 11
+: **邁向咒術師之路：影像生成**
+: **HW**{: .label .label-red } 作業五

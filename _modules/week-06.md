@@ -1,9 +1,7 @@
 ---
-title: Mar 30
+title: Mar 29
 ---
 
-Practice
-: 今天專心練習！
-  : 🤩
-: **DUE**{: .label .label-red } HW 1 截止日
-: **HW**{: .label .label-blue } [HW 2 開始日](/2022/announcements/)
+Lec 6
+: **Python 基礎練習（五）**
+: **HW**{: .label .label-red } 作業三
