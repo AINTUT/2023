@@ -2,5 +2,5 @@
 title: Mar 1
 ---
 
-Lec 2
+Lecture
 : **Python 基礎練習（一）**

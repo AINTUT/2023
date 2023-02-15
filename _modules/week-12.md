@@ -2,6 +2,6 @@
 title: May 10
 ---
 
-Lec 11
-: **邁向咒術師之路：影像生成**
+Lecture
+: **萬物無所遁形：物件偵測**
 : **HW**{: .label .label-red } 作業五

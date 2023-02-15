@@ -2,5 +2,6 @@
 title: Apr 12
 ---
 
-Lec 7
-: **資料分析、資料視覺化與互動式介面**
+Lecture
+: **Python 基礎練習（五）**
+: **HW**{: .label .label-red } 作業三
