@@ -4,6 +4,7 @@ title: Apr 12
 
 Lecture
 : **Python 基礎練習（五）**
+  : [[slides](https://docs.google.com/presentation/d/1A-GwLpC1HO5s-rYrpaG4MJKlLie_dkW-9Agtk4_0Edw/edit?usp=sharing)]
 : **HW**{: .label .label-red } 作業三
 
 Lecture
