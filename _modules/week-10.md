@@ -9,3 +9,4 @@ Lecture
 
 Lecture
 : **深度學習基礎與其常用技巧介紹**
+  : [[slides](https://docs.google.com/presentation/d/17jdOmI5X3TsmKYjEDIU0Extsd9i6aebTKgLGhS2lVeA/edit?usp=sharing)]
