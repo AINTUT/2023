@@ -6,7 +6,7 @@ Lecture
 : **分類任務的性能指標**
   : [[slides](https://docs.google.com/presentation/d/1VyPTtlHHXXV-FdliFizyPhAVjPM4N5UBXurvzLQc_8c/edit?usp=sharing)]
 : **EXERCISE**{: .label .label-purple }[分類](https://colab.research.google.com/drive/1bxzBnMgnTF5Fju6ATiBJRTNkPd47FDwQ?usp=sharing)
-: **HW**{: .label .label-red } 作業四
+: **HW**{: .label .label-red } [作業四](/2023/announcements/)
 
 Lecture
 : **深度學習基礎與其常用技巧介紹**
