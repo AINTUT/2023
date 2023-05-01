@@ -9,3 +9,5 @@ Lecture
 
 Lecture
 : **電腦視覺與卷積神經網路**
+  : [[slides](https://docs.google.com/presentation/d/1dxyIpj96kjVajV8PoyQCoX3Xs4gVfCt0-jeDw0GitAw/edit?usp=sharing)]
+: **EXERCISE**{: .label .label-purple }[卷積神經網路與影像分類](https://colab.research.google.com/drive/14SvM3SdKUGQdrDdSYG33WtcaYcIT6mHA?usp=sharing)
