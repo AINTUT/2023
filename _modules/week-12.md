@@ -10,4 +10,5 @@ Lecture
 Lecture
 : **打造電腦視覺應用**
   : [[slides](https://docs.google.com/presentation/d/1baDzBGse_cQNg1b_vMVjzUNXSuvOzwr_winObneaoOI/edit?usp=sharing)]
+: **EXERCISE**{: .label .label-purple }[打造電腦視覺應用](https://colab.research.google.com/drive/1fQHWFGuxgKR5HhsV8hhQ_riIYT6d6t-z?usp=sharing)
 : **HW**{: .label .label-red } [作業五](/2023/announcements/)
