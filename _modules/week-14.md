@@ -4,4 +4,4 @@ title: May 24
 
 Lecture
 : **自然語言處理（二）生成**
-: **HW**{: .label .label-red } 作業六
+: **HW**{: .label .label-red } [作業六](/2023/announcements/)
